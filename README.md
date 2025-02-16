@@ -1,5 +1,5 @@
 # memeecoin
-
+(lib.rs deleted temporarily)
 ## Getting Started
 
 ### Prerequisites
